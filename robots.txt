@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://likeying616.github.io/sitemap.xml
